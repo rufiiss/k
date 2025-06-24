@@ -1,3 +1,4 @@
+let score;
 let grade;
 
 if (score >= 90 && score <= 100) {
